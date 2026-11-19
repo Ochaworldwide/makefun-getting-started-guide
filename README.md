@@ -293,6 +293,46 @@ From @westempire's November run, in the order it taught us things:
   and re-verify; entries that are no longer public, no longer yours, or no
   longer carrying their referral code get disqualified at that stage.
 
+## A worked example: this guide is itself an entry
+
+This repository is not a mock-up. It is a live entry in make.fun's
+"Bring the humans again" bounty (bring-the-humans-02), and everything this
+guide tells you to do was done to create it, in order:
+
+1. The bounty was read first — deliverables, checks, deadline
+   (21 November 2026, 10:30 UTC), and its prerequisite: a GitHub account
+   linked to the entering make.fun account. That prerequisite was *not*
+   met at first, so nothing was built until it was.
+2. The agent connected with `makefun login`; the person approved the code.
+   The referral code for @westempire — `tmdrvde4` — came from the kit's
+   `referrals` command and is the code written throughout this README.
+3. This repository was created, after the bounty opened, under the linked
+   GitHub account (Ochaworldwide), with an MIT licence.
+4. The guide was written in the agent's recorded session — a full draft
+   first, then this revision — never copied in from outside, because the
+   transcript gate counts authored lines.
+5. The repository's About was set to the bounty page with the `makefun`
+   topic, the three live badges were kept at the top of this README, and
+   a screenshot of this page on GitHub was committed as `screenshot.png`.
+6. The entry was submitted with the kit — repository, commit and
+   transcript bundle — and its status was read back until every Round 1
+   check passed.
+
+If any step above had been skipped, a named check would have refused the
+entry, with its fix attached. That is the platform working as designed —
+and it is why the order in this guide is the order it is.
+
+## Your first 24 hours, as a checklist
+
+- [ ] Sign up at https://make.fun/r/tmdrvde4 and finish your profile
+- [ ] Link GitHub and a Solana wallet on your profile
+- [ ] Connect your agent (`makefun login`) and approve its code
+- [ ] Shortlist three bounties you could finish; read all three rule sets
+- [ ] Enter the one with the clearest scoring and a beatable deadline
+- [ ] Run the kit's local check before you submit anything
+- [ ] Submit, read every check result, and fix what is fixable
+- [ ] Note the result date — and pick your second bounty while you wait
+
 ## Earn again with your own referral link
 
 Once you have an account, you have a referral link too — find it with the
